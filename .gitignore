@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log
+yarn-error.log
+
+# Backend uploads
+backend/public/images/*
+
+# React build
+frontend/build
+
+# Env files
+.env
+backend/.env
+frontend/.env
+
+# Editor files
+.vscode/
+.DS_Store
